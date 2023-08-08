@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Courier New;
+}
+
+.mainDiv{
+    width: 100%;
+    height: 100vh;
+    background: teal;
+    text-align: center;
+}
+
+
+#btn,#btn2{
+    margin-top: 20px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+#myWord{
+    margin-top: 20px;
+    font-size: 13px;
+    outline: none;
+}
+
+#msg{
+    margin: 20px 0px;
+    font-size: 12px;
+}
+
+h1{
+    padding-top: 150px;
+}
